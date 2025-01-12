@@ -1,5 +1,5 @@
 <h3 align="center"><img src="https://i.imgur.com/ZQI2EYz.png" alt="logo" height="100px"></h3>
-<p align="center">A reimagined CLI system information tool written in bash 4/5.14+</p>
+<p align="center">A re-imagined CLI system information tool written in bash 4/5.14+</p>
 
 <p align="center">
 <a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
