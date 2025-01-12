@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-<a href="https://github.com/dylanaraps/neofetch/releases"><img src="https://img.shields.io/github/release/dylanaraps/neofetch.svg"></a>
+<a href="https://github.com/dylanaraps/neofetch/releases"><img src="https://img.shields.io/github/release/neofetch/neofetch.svg"></a>
 <a href="https://repology.org/metapackage/neofetch"><img src="https://repology.org/badge/tiny-repos/neofetch.svg" alt="Packaging status"></a>
 </p>
 
