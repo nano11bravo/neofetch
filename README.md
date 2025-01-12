@@ -21,5 +21,6 @@ You can further configure Neofetch to display exactly what you want it to. Throu
 
 Neofetch supports almost 150 different operating systems. From Linux to Windows, all the way to more obscure operating systems like Minix, AIX and Haiku. If your favorite operating system is unsupported: Open up an issue and support will be added.
 
+**The original Neofetch was created by Dylan Araps by marked as read-only/archived. I decided to bring the project back to life adding more compatibility for later versions of bash. Please do not contact Dylan for issues but instead open one here. Thanks!**
 
 ### More: \[[Dependencies](https://github.com/dylanaraps/neofetch/wiki/Dependencies)\] \[[Installation](https://github.com/dylanaraps/neofetch/wiki/Installation)\] \[[Wiki](https://github.com/dylanaraps/neofetch/wiki)\]
